@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+<img src="src/assets/cap2.png">
